@@ -1,0 +1,62 @@
+/*tipográfia*/
+
+#tipo_dark_blue{
+    color: rgb(110, 188, 255);
+}
+.tipo_light_blue{
+    color: rgb(77, 162, 192);
+    text-align: justify;
+}
+#forras{
+    text-align: right;
+}
+
+/*táblázat*/
+
+.light{
+    background-color: rgb(43, 47, 51);
+}
+.dark{
+    background-color: rgb(32, 36, 40);
+}
+table{
+    color: white;
+    text-align: left;
+    vertical-align: top;
+}
+td{
+    border-color: white;
+    border: 10px;
+}
+
+/*képek*/
+
+.sor2{
+    border-radius: 15px;
+}
+.sor1{
+    border-radius: 50%;
+}
+.sor3{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*gombok*/
+
+.blue_bg{
+    background-color: rgb(0, 123, 255);
+}
+.grey_bg{
+    background-color: rgb(108, 117, 125);
+}
+#pink_bg{
+    background-color: rgb(248, 215, 218);
+    color: rgb(142, 53, 59);
+}
+.red_bg{
+    background-color: rgb(220, 53, 69);
+}
+#gombok_body{
+    border-radius: 15px;
+}
